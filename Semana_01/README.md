@@ -9,4 +9,4 @@ Run `python3 helloworld.py` in the terminal, from the `Semana_01` folder.
 ## What I learned
 - How to use Git to save my work
 - How to write a README in Markdown
-- How to publish my work on GitHub
+- How to publish my work on GitHub.
